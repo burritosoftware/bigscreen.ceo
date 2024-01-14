@@ -9,3 +9,5 @@ Inspired by [discord.ceo](https://discord.ceo), created by [Burrito](https://lin
 - https://no.bigscreen.ceo/
 - https://bigscreen.ceo/without/a-grill/
 - https://bigscreen.ceo/without/a-background/
+- https://bigscreen.ceo/built/like-a-mii/
+- https://bigscreen.ceo/built/like-a-square/
